@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HBPolice"
+  id="myeclipse.1461158675445"
+  context-root="/HBPolice"
+  j2ee-spec="5.0"
+  archive="HBPolice.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
