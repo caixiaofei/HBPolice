@@ -40,10 +40,4 @@ public class person {
 
 	}
 
-
-	@Override
-	public String toString() {
-		return "person [name=" + name + ", age=" + age + "]";
-	}
-
 }
