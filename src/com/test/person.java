@@ -31,7 +31,7 @@ public class person {
 	public static void main(String[] args) {
 		String s= "";
 		System.out.println(s.toString());
-		
+		  
 		person p = new person();
 		p.setAge(25);
 		p.setName("caifei");
